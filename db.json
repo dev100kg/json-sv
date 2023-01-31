@@ -1,0 +1,76 @@
+{
+  "sauna": [
+    {
+      "id": 1,
+      "name": "ベッドアンドスパ所沢",
+      "station": "所沢",
+      "url": "https://bed-spa.jp/",
+      "favorits": 2101,
+      "mens-only": true
+    },
+    {
+      "id": 2,
+      "name": "かるまる",
+      "station": "池袋",
+      "url": "https://karumaru.jp/ikebukuro/",
+      "favorits": 9025,
+      "mens-only": true
+    },
+    {
+      "id": 3,
+      "name": "クレスト松戸",
+      "station": "松戸",
+      "url": "https://www.crest-sch.com/",
+      "favorits": 690,
+      "mens-only": true
+    },
+    {
+      "id": 4,
+      "name": "湯～ねる",
+      "station": "新習志野",
+      "url": "https://u-neru.com/",
+      "favorits": 1142,
+      "mens-only": false
+    },
+    {
+      "id": 5,
+      "name": "北欧",
+      "station": "上野",
+      "url": "https://www.saunahokuou.com/",
+      "favorits": 9631,
+      "mens-only": true
+    },
+    {
+      "id": 6,
+      "name": "スパジャポ",
+      "station": "東久留米",
+      "url": "http://spajapo.com/",
+      "favorits": 3819,
+      "mens-only": false
+    },
+    {
+      "id": 7,
+      "name": "レスタ",
+      "station": "池袋",
+      "url": "http://www.timesspa-resta.jp/",
+      "favorits": 11367,
+      "mens-only": false
+    },
+    {
+      "id": 8,
+      "name": "レインボー新小岩",
+      "station": "新小岩",
+      "url": "https://hpdsp.jp/rainbow-sinkoiwa/",
+      "favorits": 1654,
+      "mens-only": false
+    },
+    {
+      "name": "萩の湯",
+      "station": "鶯谷",
+      "url": "https://haginoyu.jp/",
+      "favorits": 5535,
+      "mens-only": false,
+      "id": 9
+    }
+  ]
+}
